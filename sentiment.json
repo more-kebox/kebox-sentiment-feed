@@ -1,0 +1,786 @@
+{
+ "schemaVersion": 1,
+ "name": "Property Fear & Greed Index",
+ "region": "Australia",
+ "generatedAt": "2026-10-21T12:36:33Z",
+ "asOf": "2026-10-21",
+ "index": {
+  "value": 27,
+  "exact": 26.81,
+  "band": {
+   "label": "Fear",
+   "key": "fear"
+  },
+  "previous": 28,
+  "change": -1
+ },
+ "today": {
+  "date": "2026-10-21",
+  "negative": 7,
+  "positive": 2,
+  "newsScore": -26,
+  "newsIndex": 24
+ },
+ "averages": {
+  "month": 33,
+  "year": 40
+ },
+ "clearance": {
+  "latest": {
+   "reportedOn": "2026-10-19",
+   "weekend": "17–18 Oct",
+   "capitals": 51.2,
+   "brisbane": null,
+   "kind": "preliminary",
+   "source": "Cotality via Bloomberg (Briefs.co)",
+   "url": "https://www.briefs.co/news/australian-auction-volumes-slide-as-15-year-high-rates-cool/",
+   "changeCapitals": 2.4
+  },
+  "history": [
+   {
+    "reportedOn": "2026-07-06",
+    "weekend": "4–5 Jul",
+    "capitals": 49.8,
+    "brisbane": 23.8,
+    "kind": "preliminary",
+    "source": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-07-05/property-auctions-cotality-figures-brisbane-sydney-melbourne/106882230"
+   },
+   {
+    "reportedOn": "2026-07-13",
+    "weekend": "11–12 Jul",
+    "capitals": 54.8,
+    "brisbane": 43,
+    "kind": "preliminary",
+    "source": "Cotality",
+    "url": "https://www.cotality.com/au/press-releases/auction-clearance-rates-reach-a-seven-week-high-as-auction-volumes-decline"
+   },
+   {
+    "reportedOn": "2026-07-22",
+    "weekend": "18–19 Jul",
+    "capitals": 45.3,
+    "brisbane": 35.4,
+    "kind": "final",
+    "source": "Cotality",
+    "url": "https://www.cotality.com/au/press-releases/final-clearance-rates-week-ending-19-july-2026"
+   },
+   {
+    "reportedOn": "2026-07-27",
+    "weekend": "25–26 Jul",
+    "capitals": 52.4,
+    "brisbane": 30.5,
+    "kind": "preliminary",
+    "source": "MacroBusiness",
+    "url": "https://www.macrobusiness.com.au/2026/07/post-budget-auction-slump-continues/"
+   },
+   {
+    "reportedOn": "2026-08-06",
+    "weekend": "1–2 Aug",
+    "capitals": 48.9,
+    "brisbane": 37.5,
+    "kind": "final",
+    "source": "Cotality",
+    "url": "https://www.cotality.com/au/press-releases/final-clearance-rates---week-ending-2-august-2026"
+   },
+   {
+    "reportedOn": "2026-08-11",
+    "weekend": "8–9 Aug",
+    "capitals": 55.1,
+    "brisbane": 38.1,
+    "kind": "preliminary",
+    "source": "Real Estate Business",
+    "url": "https://www.realestatebusiness.com.au/sales/32306-auction-market-shows-signs-of-life-as-clearance-rates-reach-11-week-high"
+   },
+   {
+    "reportedOn": "2026-09-03",
+    "weekend": "29–30 Aug",
+    "capitals": 49.5,
+    "brisbane": 27.4,
+    "kind": "final",
+    "source": "Cotality",
+    "url": "https://www.cotality.com/au/press-releases/final-clearance-rates-week-ending-30-august-2026"
+   },
+   {
+    "reportedOn": "2026-09-21",
+    "weekend": "19–20 Sep",
+    "capitals": 54,
+    "brisbane": 37.5,
+    "kind": "preliminary",
+    "source": "MacroBusiness",
+    "url": "https://www.macrobusiness.com.au/2026/09/australias-auction-market-gets-a-reality-check/"
+   },
+   {
+    "reportedOn": "2026-10-05",
+    "weekend": "3–4 Oct",
+    "capitals": 48.2,
+    "brisbane": 25.6,
+    "kind": "preliminary",
+    "source": "Cotality via MacroBusiness",
+    "url": "https://www.macrobusiness.com.au/2026/10/rba-rate-hike-smashes-auction-market/"
+   },
+   {
+    "reportedOn": "2026-10-12",
+    "weekend": "10–11 Oct",
+    "capitals": 48.8,
+    "brisbane": 21.4,
+    "kind": "preliminary",
+    "source": "Cotality via MacroBusiness",
+    "url": "https://www.macrobusiness.com.au/2026/10/a-brutal-reality-check-for-the-housing-market/"
+   },
+   {
+    "reportedOn": "2026-10-19",
+    "weekend": "17–18 Oct",
+    "capitals": 51.2,
+    "brisbane": null,
+    "kind": "preliminary",
+    "source": "Cotality via Bloomberg (Briefs.co)",
+    "url": "https://www.briefs.co/news/australian-auction-volumes-slide-as-15-year-high-rates-cool/"
+   }
+  ]
+ },
+ "headlines": [
+  {
+   "title": "Property confidence crashes to six-year low as agents tip 4.2% price fall",
+   "source": "Elite Agent (NAB Residential Property Survey)",
+   "url": "https://eliteagent.com/australian-property-confidence-hits-six-year-low-prices-to-fall/",
+   "summary": "NAB's residential property index fell 18 pts to -4 in the Sept quarter; agents now expect prices to fall 4.2% over 12 months, with rates and credit access the main barriers for buyers.",
+   "sentiment": "neg",
+   "impact": "normal",
+   "points": -6,
+   "geo": {
+    "level": "national"
+   }
+  },
+  {
+   "title": "Investor shift to new housing masks bigger exit from established homes",
+   "source": "Elite Agent (ABS lending data)",
+   "url": "https://eliteagent.com/investor-shift-to-new-housing-hides-established-property-exit/",
+   "summary": "Investor loan commitments fell 8.6% in the June quarter after the tax changes; for every extra new-build investor loan, about 16 fewer loans went to established homes, thinning resale demand.",
+   "sentiment": "neg",
+   "impact": "normal",
+   "points": -6,
+   "geo": {
+    "level": "national"
+   }
+  },
+  {
+   "title": "Australian consumer confidence remains historically low at 67.7: ANZ-Roy Morgan",
+   "source": "ABC News (business live blog)",
+   "url": "https://www.abc.net.au/news/2026-10-20/asx-markets-business-live-news-october-20-2026/107283924",
+   "summary": "Weekly confidence slipped to 67.7, near historic lows, and ANZ expects a 25bp RBA hike in November, keeping buyers cautious.",
+   "sentiment": "neg",
+   "impact": "normal",
+   "points": -6,
+   "geo": {
+    "level": "national"
+   }
+  },
+  {
+   "title": "Mortgage arrears rising and more developer collapses possible, non-bank lenders warn",
+   "source": "ABC News (business live blog)",
+   "url": "https://www.abc.net.au/news/2026-10-20/asx-markets-business-live-news-october-20-2026/107283924",
+   "summary": "Liberty says borrowers can't take many more hikes and arrears will keep rising; La Trobe flags further developer failures as prices and volumes fall.",
+   "sentiment": "neg",
+   "impact": "minor",
+   "points": -3,
+   "geo": {
+    "level": "national"
+   }
+  },
+  {
+   "title": "Refinancing responsible for record 57% of lodgements at LMG",
+   "source": "The Adviser",
+   "url": "https://www.theadviser.com.au/broker/49102-refinancing-responsible-for-over-50-of-lodgements-at-lmg",
+   "summary": "Refinancing hit a record share of September lodgements while investor lodgements fell 23% since June and 45% since January, showing purchase demand drying up.",
+   "sentiment": "neg",
+   "impact": "minor",
+   "points": -3,
+   "geo": {
+    "level": "national"
+   }
+  },
+  {
+   "title": "Bendigo's loan book shrinks despite signs of improvement",
+   "source": "The Adviser",
+   "url": "https://www.theadviser.com.au/lender/49105-bendigo-s-loan-book-shrinks-despite-signs-of-improvement",
+   "summary": "Bendigo's total lending contracted 3.1% annualised in the Sept quarter, with residential balances down 0.8% to $66.2bn as credit demand weakens.",
+   "sentiment": "neg",
+   "impact": "minor",
+   "points": -3,
+   "geo": {
+    "level": "national"
+   }
+  },
+  {
+   "title": "NAB to cut 2,500 jobs by mid-2027 as layoffs fuel recession fears",
+   "source": "ABC News",
+   "url": "https://www.abc.net.au/news/2026-10-20/nab-slashes-jobs-in-massive-restructure/107286316",
+   "summary": "Big-company job cuts on top of 4.7% unemployment add to job-security worries that weigh on buyer confidence.",
+   "sentiment": "neg",
+   "impact": "minor",
+   "points": -3,
+   "geo": {
+    "level": "national"
+   }
+  },
+  {
+   "title": "Pauline Hanson vows to reverse Labor's CGT, negative gearing changes",
+   "source": "Real Estate Business",
+   "url": "https://www.realestatebusiness.com.au/industry/32612-pauline-hanson-vows-to-reverse-labor-s-cgt-negative-gearing-changes",
+   "summary": "One Nation pledges to restore the 50% CGT discount and negative gearing on up to two properties, a possible future boost to investor sentiment.",
+   "sentiment": "pos",
+   "impact": "minor",
+   "points": 2,
+   "geo": {
+    "level": "national"
+   }
+  },
+  {
+   "title": "Home lending slowdown has bottomed, upgraders propping up market: AFG",
+   "source": "ABC News (business live blog)",
+   "url": "https://www.abc.net.au/news/2026-10-20/asx-markets-business-live-news-october-20-2026/107283924",
+   "summary": "AFG's David Bailey says the home-loan slowdown appears to have bottomed, with upgraders supporting activity, though no recovery yet.",
+   "sentiment": "pos",
+   "impact": "minor",
+   "points": 2,
+   "geo": {
+    "level": "national"
+   }
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-07-01",
+   "index": 41,
+   "band": "neutral",
+   "newsIndex": 20,
+   "newsScore": -30
+  },
+  {
+   "date": "2026-07-02",
+   "index": 44,
+   "band": "neutral",
+   "newsIndex": 51,
+   "newsScore": 1
+  },
+  {
+   "date": "2026-07-03",
+   "index": 46,
+   "band": "neutral",
+   "newsIndex": 49,
+   "newsScore": -1
+  },
+  {
+   "date": "2026-07-06",
+   "index": 45,
+   "band": "neutral",
+   "newsIndex": 49,
+   "newsScore": -1
+  },
+  {
+   "date": "2026-07-07",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 39,
+   "newsScore": -11
+  },
+  {
+   "date": "2026-07-08",
+   "index": 40,
+   "band": "neutral",
+   "newsIndex": 32,
+   "newsScore": -18
+  },
+  {
+   "date": "2026-07-09",
+   "index": 38,
+   "band": "fear",
+   "newsIndex": 32,
+   "newsScore": -18
+  },
+  {
+   "date": "2026-07-10",
+   "index": 39,
+   "band": "fear",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-07-13",
+   "index": 42,
+   "band": "neutral",
+   "newsIndex": 52,
+   "newsScore": 2
+  },
+  {
+   "date": "2026-07-14",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 45,
+   "newsScore": -5
+  },
+  {
+   "date": "2026-07-15",
+   "index": 42,
+   "band": "neutral",
+   "newsIndex": 38,
+   "newsScore": -12
+  },
+  {
+   "date": "2026-07-16",
+   "index": 42,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-07-21",
+   "index": 39,
+   "band": "fear",
+   "newsIndex": 32,
+   "newsScore": -18
+  },
+  {
+   "date": "2026-07-22",
+   "index": 38,
+   "band": "fear",
+   "newsIndex": 41,
+   "newsScore": -9
+  },
+  {
+   "date": "2026-07-23",
+   "index": 37,
+   "band": "fear",
+   "newsIndex": 35,
+   "newsScore": -15
+  },
+  {
+   "date": "2026-07-24",
+   "index": 38,
+   "band": "fear",
+   "newsIndex": 41,
+   "newsScore": -9
+  },
+  {
+   "date": "2026-07-27",
+   "index": 41,
+   "band": "neutral",
+   "newsIndex": 51,
+   "newsScore": 1
+  },
+  {
+   "date": "2026-07-28",
+   "index": 42,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-07-29",
+   "index": 47,
+   "band": "neutral",
+   "newsIndex": 60,
+   "newsScore": 10
+  },
+  {
+   "date": "2026-07-30",
+   "index": 48,
+   "band": "neutral",
+   "newsIndex": 51,
+   "newsScore": 1
+  },
+  {
+   "date": "2026-07-31",
+   "index": 50,
+   "band": "neutral",
+   "newsIndex": 54,
+   "newsScore": 4
+  },
+  {
+   "date": "2026-08-03",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 26,
+   "newsScore": -24
+  },
+  {
+   "date": "2026-08-04",
+   "index": 37,
+   "band": "fear",
+   "newsIndex": 23,
+   "newsScore": -27
+  },
+  {
+   "date": "2026-08-06",
+   "index": 38,
+   "band": "fear",
+   "newsIndex": 47,
+   "newsScore": -3
+  },
+  {
+   "date": "2026-08-11",
+   "index": 42,
+   "band": "neutral",
+   "newsIndex": 55,
+   "newsScore": 5
+  },
+  {
+   "date": "2026-08-12",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-08-13",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-08-14",
+   "index": 39,
+   "band": "fear",
+   "newsIndex": 29,
+   "newsScore": -21
+  },
+  {
+   "date": "2026-08-17",
+   "index": 40,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-08-18",
+   "index": 44,
+   "band": "neutral",
+   "newsIndex": 53,
+   "newsScore": 3
+  },
+  {
+   "date": "2026-08-19",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 41,
+   "newsScore": -9
+  },
+  {
+   "date": "2026-08-20",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-08-21",
+   "index": 42,
+   "band": "neutral",
+   "newsIndex": 38,
+   "newsScore": -12
+  },
+  {
+   "date": "2026-08-24",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 47,
+   "newsScore": -3
+  },
+  {
+   "date": "2026-08-26",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 41,
+   "newsScore": -9
+  },
+  {
+   "date": "2026-08-27",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-08-31",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-09-01",
+   "index": 36,
+   "band": "fear",
+   "newsIndex": 20,
+   "newsScore": -30
+  },
+  {
+   "date": "2026-09-02",
+   "index": 38,
+   "band": "fear",
+   "newsIndex": 41,
+   "newsScore": -9
+  },
+  {
+   "date": "2026-09-03",
+   "index": 38,
+   "band": "fear",
+   "newsIndex": 41,
+   "newsScore": -9
+  },
+  {
+   "date": "2026-09-04",
+   "index": 40,
+   "band": "neutral",
+   "newsIndex": 47,
+   "newsScore": -3
+  },
+  {
+   "date": "2026-09-07",
+   "index": 39,
+   "band": "fear",
+   "newsIndex": 35,
+   "newsScore": -15
+  },
+  {
+   "date": "2026-09-08",
+   "index": 39,
+   "band": "fear",
+   "newsIndex": 38,
+   "newsScore": -12
+  },
+  {
+   "date": "2026-09-10",
+   "index": 40,
+   "band": "neutral",
+   "newsIndex": 43,
+   "newsScore": -7
+  },
+  {
+   "date": "2026-09-11",
+   "index": 41,
+   "band": "neutral",
+   "newsIndex": 43,
+   "newsScore": -7
+  },
+  {
+   "date": "2026-09-14",
+   "index": 42,
+   "band": "neutral",
+   "newsIndex": 45,
+   "newsScore": -5
+  },
+  {
+   "date": "2026-09-15",
+   "index": 45,
+   "band": "neutral",
+   "newsIndex": 51,
+   "newsScore": 1
+  },
+  {
+   "date": "2026-09-16",
+   "index": 45,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-09-17",
+   "index": 44,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-09-18",
+   "index": 42,
+   "band": "neutral",
+   "newsIndex": 35,
+   "newsScore": -15
+  },
+  {
+   "date": "2026-09-21",
+   "index": 41,
+   "band": "neutral",
+   "newsIndex": 41,
+   "newsScore": -9
+  },
+  {
+   "date": "2026-09-22",
+   "index": 42,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-09-24",
+   "index": 43,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-09-25",
+   "index": 44,
+   "band": "neutral",
+   "newsIndex": 47,
+   "newsScore": -3
+  },
+  {
+   "date": "2026-09-29",
+   "index": 44,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-09-30",
+   "index": 41,
+   "band": "neutral",
+   "newsIndex": 33,
+   "newsScore": -17
+  },
+  {
+   "date": "2026-10-01",
+   "index": 42,
+   "band": "neutral",
+   "newsIndex": 44,
+   "newsScore": -6
+  },
+  {
+   "date": "2026-10-02",
+   "index": 33,
+   "band": "fear",
+   "newsIndex": 13,
+   "newsScore": -37
+  },
+  {
+   "date": "2026-10-05",
+   "index": 34,
+   "band": "fear",
+   "newsIndex": 39,
+   "newsScore": -11
+  },
+  {
+   "date": "2026-10-06",
+   "index": 36,
+   "band": "fear",
+   "newsIndex": 41,
+   "newsScore": -9
+  },
+  {
+   "date": "2026-10-07",
+   "index": 34,
+   "band": "fear",
+   "newsIndex": 29,
+   "newsScore": -21
+  },
+  {
+   "date": "2026-10-08",
+   "index": 32,
+   "band": "fear",
+   "newsIndex": 28,
+   "newsScore": -22
+  },
+  {
+   "date": "2026-10-09",
+   "index": 35,
+   "band": "fear",
+   "newsIndex": 41,
+   "newsScore": -9
+  },
+  {
+   "date": "2026-10-12",
+   "index": 32,
+   "band": "fear",
+   "newsIndex": 26,
+   "newsScore": -24
+  },
+  {
+   "date": "2026-10-13",
+   "index": 33,
+   "band": "fear",
+   "newsIndex": 37,
+   "newsScore": -13
+  },
+  {
+   "date": "2026-10-14",
+   "index": 36,
+   "band": "fear",
+   "newsIndex": 43,
+   "newsScore": -7
+  },
+  {
+   "date": "2026-10-15",
+   "index": 31,
+   "band": "fear",
+   "newsIndex": 20,
+   "newsScore": -30
+  },
+  {
+   "date": "2026-10-16",
+   "index": 32,
+   "band": "fear",
+   "newsIndex": 34,
+   "newsScore": -16
+  },
+  {
+   "date": "2026-10-19",
+   "index": 30,
+   "band": "fear",
+   "newsIndex": 23,
+   "newsScore": -27
+  },
+  {
+   "date": "2026-10-20",
+   "index": 28,
+   "band": "fear",
+   "newsIndex": 24,
+   "newsScore": -26
+  },
+  {
+   "date": "2026-10-21",
+   "index": 27,
+   "band": "fear",
+   "newsIndex": 24,
+   "newsScore": -26
+  }
+ ],
+ "bands": [
+  {
+   "key": "extreme_fear",
+   "label": "Extreme Fear",
+   "min": 0,
+   "max": 20
+  },
+  {
+   "key": "fear",
+   "label": "Fear",
+   "min": 21,
+   "max": 39
+  },
+  {
+   "key": "neutral",
+   "label": "Neutral",
+   "min": 40,
+   "max": 60
+  },
+  {
+   "key": "greed",
+   "label": "Greed",
+   "min": 61,
+   "max": 79
+  },
+  {
+   "key": "extreme_greed",
+   "label": "Extreme Greed",
+   "min": 80,
+   "max": 100
+  }
+ ],
+ "links": {
+  "fullTracker": "https://claude.ai/artifact/8CeMPRjb5qGmkNDkrKFhUm"
+ },
+ "disclaimer": "Based on media headlines and property market reporting. It is not a market forecast, valuation or financial advice."
+}
